@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-remove-debugger",
   "version": "1.0.0",
-  "description": "description": "Remove debugger statements",
+  "description": "Remove debugger statements",
   "main": "src/index.js",
   "scripts": {
     "jest": "jest",
