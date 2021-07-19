@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-remove-debugger",
+  "version": "1.0.0",
+  "description": "description": "Remove debugger statements",
+  "main": "src/index.js",
+  "scripts": {
+    "jest": "jest",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "author": "zhangchengliang",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "jest": "^27.0.6"
+  }
+}

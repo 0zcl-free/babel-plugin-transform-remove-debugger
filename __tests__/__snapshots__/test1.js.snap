@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test1 1`] = `
+"console.log('a');
+console.log('b');
+console.log('c');"
+`;
